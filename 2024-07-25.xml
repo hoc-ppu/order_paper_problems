@@ -1,0 +1,956 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OrderPaper xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <House>Commons</House>
+  <Type>Effectives</Type>
+  <Days>
+    <Day>
+      <Date>2024-07-25T00:00:00</Date>
+      <Sections>
+        <Section>
+          <DayItems>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56653</DayItemId>
+              <TabledOrder>1</TabledOrder>
+              <Title>Prayers</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Notes>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</Notes>
+                <Time>09:30:00</Time>
+                <AdditionalInformation>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</AdditionalInformation>
+                <DateSubmitted xsi:nil="true" />
+                <RelevantDocuments>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</RelevantDocuments>
+                <ItemText><![CDATA[Followed by]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>17454</DayItemId>
+              <TabledOrder>2</TabledOrder>
+              <Title>Questions</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>55922</DayItemId>
+              <TabledOrder>3</TabledOrder>
+              <Title>Questions to the Minister for the Cabinet Office</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Substantive Question</BusinessItemType>
+                <Time>09:30:00</Time>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Cabinet Office</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>55923</DayItemId>
+              <TabledOrder>4</TabledOrder>
+              <Title>Topical Questions to the Minister for the Cabinet Office</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Substantive Question</BusinessItemType>
+                <Time>10:15:00</Time>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Cabinet Office</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>17455</DayItemId>
+              <TabledOrder>5</TabledOrder>
+              <Title>Urgent Questions and Statements</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56654</DayItemId>
+              <TabledOrder>6</TabledOrder>
+              <Title>Urgent Questions (if any)</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Notes>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</Notes>
+                <Time />
+                <AdditionalInformation>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</AdditionalInformation>
+                <DateSubmitted xsi:nil="true" />
+                <RelevantDocuments>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</RelevantDocuments>
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56655</DayItemId>
+              <TabledOrder>7</TabledOrder>
+              <Title>Business Question to the Leader of the House</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Notes>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</Notes>
+                <Time />
+                <AdditionalInformation>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</AdditionalInformation>
+                <DateSubmitted xsi:nil="true" />
+                <RelevantDocuments>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</RelevantDocuments>
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56656</DayItemId>
+              <TabledOrder>8</TabledOrder>
+              <Title>Ministerial Statements (if any)</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Notes>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</Notes>
+                <Time />
+                <AdditionalInformation>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</AdditionalInformation>
+                <DateSubmitted xsi:nil="true" />
+                <RelevantDocuments>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</RelevantDocuments>
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>17515</DayItemId>
+              <TabledOrder>9</TabledOrder>
+              <Title>Presentation of Bills</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56672</DayItemId>
+              <TabledOrder>10</TabledOrder>
+              <Title>Great British Energy</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>1510</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Ed Miliband</Name>
+                    <LayingMinisterName>Secretary Edward Miliband</LayingMinisterName>
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders>
+                  <StandingOrder>
+                    <Text>Standing Order No. 57</Text>
+                    <SortOrder>0</SortOrder>
+                  </StandingOrder>
+                </StandingOrders>
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Legislation</BusinessItemType>
+                <Time />
+                <Duration>No debate</Duration>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[<p class="MsoNormal" style="text-align: justify; line-height: normal; tab-stops: right 323.25pt; mso-layout-grid-align: none; text-autospace: none; margin: 14.0pt 0cm 14.0pt 0cm;"><span class="MotionTextChar"><span style="font-family: 'Arial',sans-serif; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin;">Bill to make provision about Great British Energy.</span></span>]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56671</DayItemId>
+              <TabledOrder>11</TabledOrder>
+              <Title>High Speed Rail (Crewe - Manchester)</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>4473</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Louise Haigh</Name>
+                    <LayingMinisterName>Secretary Louise Haigh</LayingMinisterName>
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders>
+                  <StandingOrder>
+                    <Text>Order of 20 June 2022</Text>
+                    <SortOrder>0</SortOrder>
+                  </StandingOrder>
+                </StandingOrders>
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Legislation</BusinessItemType>
+                <Notes>&lt;p&gt;&lt;span style="color: #333333; font-family: Arial, Verdana, sans-serif; background-color: #f7f7f7;"&gt;An Order to carry over the High Speed Rail (Crewe - Manchester) Bill was made on&amp;nbsp;20 June 2022.&lt;/span&gt;&lt;/p&gt;</Notes>
+                <Time />
+                <Duration>No debate</Duration>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[<p class="MsoNormal"><span style="font-size: 14.0pt; line-height: 115%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';">Bill to <span style="color: #4d4d4d; background: white; mso-highlight: white;">make provision for a railway between a junction with Phase 2a of High Speed 2 south of Crewe in Cheshire and Manchester Piccadilly Station; for a railway between Hoo Green in Cheshire and a junction with the West Coast Main Line at Bamfurlong, south of Wigan; and for connected purposes.</span></span>]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>17456</DayItemId>
+              <TabledOrder>12</TabledOrder>
+              <Title>Business of the Day</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56584</DayItemId>
+              <TabledOrder>13</TabledOrder>
+              <Title>Supply and Appropriation (Main Estimates) Bill: Second and Third Reading</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders>
+                  <StandingOrder>
+                    <Text>Standing Order No. 56</Text>
+                    <SortOrder>0</SortOrder>
+                  </StandingOrder>
+                </StandingOrders>
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Notes>&lt;p&gt;The Questions on Second and Third Reading must be put without debate and may be decided after 5.00pm (Standing Order No. 56).&lt;/p&gt;
+&lt;p&gt;This Bill is expected to be certified as a Money Bill.&lt;/p&gt;</Notes>
+                <Time />
+                <Duration>No debate</Duration>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56570</DayItemId>
+              <TabledOrder>14</TabledOrder>
+              <Title>Criminal Law</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>3914</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Shabana Mahmood</Name>
+                    <LayingMinisterName>Secretary Shabana Mahmood</LayingMinisterName>
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders>
+                  <StandingOrder>
+                    <Text>Standing Order No. 16(1)</Text>
+                    <SortOrder>0</SortOrder>
+                  </StandingOrder>
+                </StandingOrders>
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>SI</BusinessItemType>
+                <Notes>&lt;p class="paraNotesText" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 9px; margin-left: 2.2rem; font-size: 1rem; line-height: 1.4; color: #4d4d4d; font-family: National, Arial, Helvetica, sans-serif;"&gt;The Instrument has not been considered by the Joint Committee on Statutory Instruments.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</Notes>
+                <Time />
+                <Duration>Up to 90 minutes</Duration>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[<p class="paraMotionText" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 18px; color: #4d4d4d; font-family: National, Arial, Helvetica, sans-serif; font-size: 18px;">That the draft&nbsp;<span style="color: #333333; font-family: Arial, Verdana, sans-serif; font-size: 14px;">Criminal Justice Act 2003 (Requisite and Minimum Custodial Periods) Order</span>&nbsp;2024, which&nbsp;was laid before this House on&nbsp;17&nbsp;July, be approved.]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>17513</DayItemId>
+              <TabledOrder>15</TabledOrder>
+              <Title>Business to be taken at 5.00pm</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56668</DayItemId>
+              <TabledOrder>16</TabledOrder>
+              <Title>Business of the House</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>4514</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Sir Keir Starmer</Name>
+                    <LayingMinisterName>The Prime Minister</LayingMinisterName>
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders>
+                  <StandingOrder>
+                    <Text>Standing Orders Nos. 15 and 41A</Text>
+                    <SortOrder>0</SortOrder>
+                  </StandingOrder>
+                </StandingOrders>
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Time />
+                <Duration>No debate.</Duration>
+                <DateSubmitted>2024-07-24T15:21:15.917</DateSubmitted>
+                <ItemText><![CDATA[<p style="line-height: 1.38; margin-right: 14pt; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">That, at this day&rsquo;s sitting,&nbsp;</span>
+<p style="line-height: 1.38; margin-right: 14pt; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">(i) Standing Order No. 41A (Deferred divisions) shall not apply to the Motion in the name of Secretary Shabana Mahmood relating to Criminal Law; and</span>
+<span></span>
+<p style="line-height: 1.38; margin-right: 14pt; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">(ii) the Motion in the name of Lucy Powell relating to Business of the House (Today) may be proceeded with, though opposed, until any hour, and Standing Order No. 41A (Deferred divisions) shall not apply.</span>]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>17514</DayItemId>
+              <TabledOrder>17</TabledOrder>
+              <Title>Business of the Day</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56669</DayItemId>
+              <TabledOrder>18</TabledOrder>
+              <Title>Business of the House (Today)</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>4263</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Lucy Powell</Name>
+                    <LayingMinisterName>Lucy Powell</LayingMinisterName>
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Time />
+                <Duration>Until any hour (if the 5.00pm Business of the House motion is agreed to) </Duration>
+                <DateSubmitted>2024-07-24T15:22:29.717</DateSubmitted>
+                <ItemText><![CDATA[<span><span style="font-size: 12pt; font-family: Lora, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">That at today&rsquo;s sitting the Speaker shall put the Questions necessary to dispose of proceedings on the Motions in the name of Lucy Powell relating to (i) Code of Conduct and Guide to the Rules and (ii) Modernisation Committee not later than two hours after the commencement of proceedings on the Motion for this Order, or at 5.00pm, whichever is the later; such Questions shall include the Questions on any Amendments selected by the Speaker which may then be moved; proceedings on those Motions may continue, though opposed, after the moment of interruption; and Standing Order No. 41A (Deferred divisions) shall not apply.</span></span>]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56650</DayItemId>
+              <TabledOrder>19</TabledOrder>
+              <Title>Code of Conduct and Guide to the Rules</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>4263</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Lucy Powell</Name>
+                    <LayingMinisterName>Lucy Powell</LayingMinisterName>
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Time />
+                <Duration>Up to two hours from the start of proceedings on the Business of the House (Today) motion or until 5.00pm, whichever is the later (if that motion is agreed to)</Duration>
+                <DateSubmitted>2024-07-23T16:17:37.75</DateSubmitted>
+                <ItemText><![CDATA[<p class="MsoNormal" style="margin: 0px 0px 12pt; color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small;"><span style="color: #000000; font-family: arial, sans-serif;">That, with effect from 25 October 2024,&nbsp;paragraph 2 of Chapter 4 of the Guide to the Rules relating to the conduct of Members be amended to leave out:</span>
+<p class="MsoNormal" style="margin: 0px 0px 12pt; color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small;">
+<span class="gmail-im" style="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small;"></span><span style="color: #000000; font-family: arial, sans-serif;">"a) advice on public policy and public affairs;
+
+b) advice in general terms about how Parliament works; and".</span>]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56651</DayItemId>
+              <TabledOrder>20</TabledOrder>
+              <Title>Modernisation Committee</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>4263</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Lucy Powell</Name>
+                    <LayingMinisterName>Lucy Powell</LayingMinisterName>
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders />
+                <Amendments>
+                  <Amendment>
+                    <FriendlyDescription>Paragraph (2), leave out from “consist of” to “4” and insert—
+“one Member from each party represented in the House and one Member of no party; and”.</FriendlyDescription>
+                    <Sponsors>
+                      <Sponsor>
+                        <MemberId>4357</MemberId>
+                        <SortOrder>0</SortOrder>
+                        <HasRelevantInterest>false</HasRelevantInterest>
+                        <Name>Kirsty Blackman</Name>
+                        <LayingMinisterName />
+                      </Sponsor>
+                    </Sponsors>
+                    <Numbering>a</Numbering>
+                  </Amendment>
+                  <Amendment>
+                    <FriendlyDescription>Paragraph (2), leave out “14” and add “18”.</FriendlyDescription>
+                    <Sponsors>
+                      <Sponsor>
+                        <MemberId>4483</MemberId>
+                        <SortOrder>0</SortOrder>
+                        <HasRelevantInterest>false</HasRelevantInterest>
+                        <Name>Rishi Sunak</Name>
+                        <LayingMinisterName />
+                      </Sponsor>
+                      <Sponsor>
+                        <MemberId>4441</MemberId>
+                        <SortOrder>1</SortOrder>
+                        <HasRelevantInterest>false</HasRelevantInterest>
+                        <Name>Sir Oliver Dowden</Name>
+                        <LayingMinisterName />
+                      </Sponsor>
+                      <Sponsor>
+                        <MemberId>4503</MemberId>
+                        <SortOrder>2</SortOrder>
+                        <HasRelevantInterest>false</HasRelevantInterest>
+                        <Name>Chris Philp</Name>
+                        <LayingMinisterName />
+                      </Sponsor>
+                      <Sponsor>
+                        <MemberId>350</MemberId>
+                        <SortOrder>3</SortOrder>
+                        <HasRelevantInterest>false</HasRelevantInterest>
+                        <Name>Sir John Hayes</Name>
+                        <LayingMinisterName />
+                      </Sponsor>
+                    </Sponsors>
+                    <Numbering>b</Numbering>
+                  </Amendment>
+                  <Amendment>
+                    <FriendlyDescription>Paragraph (2), after “Members” insert—
+“which shall include the chairs of the Procedure Committee, the Committee of Privileges, the Committee on Standards and the Administration Committee; the Parliamentary Commissioner for Standards may take part in proceedings of the Committee, may receive Committee papers and may give such other assistance to the Committee as may be appropriate;”.</FriendlyDescription>
+                    <Sponsors>
+                      <Sponsor>
+                        <MemberId>4483</MemberId>
+                        <SortOrder>0</SortOrder>
+                        <HasRelevantInterest>false</HasRelevantInterest>
+                        <Name>Rishi Sunak</Name>
+                        <LayingMinisterName />
+                      </Sponsor>
+                      <Sponsor>
+                        <MemberId>4441</MemberId>
+                        <SortOrder>1</SortOrder>
+                        <HasRelevantInterest>false</HasRelevantInterest>
+                        <Name>Sir Oliver Dowden</Name>
+                        <LayingMinisterName />
+                      </Sponsor>
+                      <Sponsor>
+                        <MemberId>4503</MemberId>
+                        <SortOrder>2</SortOrder>
+                        <HasRelevantInterest>false</HasRelevantInterest>
+                        <Name>Chris Philp</Name>
+                        <LayingMinisterName />
+                      </Sponsor>
+                      <Sponsor>
+                        <MemberId>350</MemberId>
+                        <SortOrder>3</SortOrder>
+                        <HasRelevantInterest>false</HasRelevantInterest>
+                        <Name>Sir John Hayes</Name>
+                        <LayingMinisterName />
+                      </Sponsor>
+                    </Sponsors>
+                    <Numbering>c</Numbering>
+                  </Amendment>
+                  <Amendment>
+                    <FriendlyDescription>Paragraph (2), leave out “, of which”.</FriendlyDescription>
+                    <Sponsors>
+                      <Sponsor>
+                        <MemberId>4483</MemberId>
+                        <SortOrder>0</SortOrder>
+                        <HasRelevantInterest>false</HasRelevantInterest>
+                        <Name>Rishi Sunak</Name>
+                        <LayingMinisterName />
+                      </Sponsor>
+                      <Sponsor>
+                        <MemberId>4441</MemberId>
+                        <SortOrder>1</SortOrder>
+                        <HasRelevantInterest>false</HasRelevantInterest>
+                        <Name>Sir Oliver Dowden</Name>
+                        <LayingMinisterName />
+                      </Sponsor>
+                      <Sponsor>
+                        <MemberId>4503</MemberId>
+                        <SortOrder>2</SortOrder>
+                        <HasRelevantInterest>false</HasRelevantInterest>
+                        <Name>Chris Philp</Name>
+                        <LayingMinisterName />
+                      </Sponsor>
+                      <Sponsor>
+                        <MemberId>350</MemberId>
+                        <SortOrder>3</SortOrder>
+                        <HasRelevantInterest>false</HasRelevantInterest>
+                        <Name>Sir John Hayes</Name>
+                        <LayingMinisterName />
+                      </Sponsor>
+                    </Sponsors>
+                    <Numbering>d</Numbering>
+                  </Amendment>
+                  <Amendment>
+                    <FriendlyDescription>After paragraph (4) insert—
+“() The Committee—
+(a) when it announces an inquiry, shall consider relevant reports from the Procedure Committee, the Committee of Privileges, the Committee on Standards and the Administration Committee and shall invite those Committees to report on the issues within the terms of reference of the inquiry;
+(b) shall not consider matters that fall within the functions of the House of Commons Commission, as set out in the House of Commons (Administration) Act 1978; and
+(c) shall seek the views of the Speaker on matters within its order of reference;
+
+() The recommendations of the Committee shall be subject to a motion in the name of the Leader of the House;”.</FriendlyDescription>
+                    <Sponsors>
+                      <Sponsor>
+                        <MemberId>4483</MemberId>
+                        <SortOrder>0</SortOrder>
+                        <HasRelevantInterest>false</HasRelevantInterest>
+                        <Name>Rishi Sunak</Name>
+                        <LayingMinisterName />
+                      </Sponsor>
+                      <Sponsor>
+                        <MemberId>4441</MemberId>
+                        <SortOrder>1</SortOrder>
+                        <HasRelevantInterest>false</HasRelevantInterest>
+                        <Name>Sir Oliver Dowden</Name>
+                        <LayingMinisterName />
+                      </Sponsor>
+                      <Sponsor>
+                        <MemberId>4503</MemberId>
+                        <SortOrder>2</SortOrder>
+                        <HasRelevantInterest>false</HasRelevantInterest>
+                        <Name>Chris Philp</Name>
+                        <LayingMinisterName />
+                      </Sponsor>
+                      <Sponsor>
+                        <MemberId>350</MemberId>
+                        <SortOrder>3</SortOrder>
+                        <HasRelevantInterest>false</HasRelevantInterest>
+                        <Name>Sir John Hayes</Name>
+                        <LayingMinisterName />
+                      </Sponsor>
+                    </Sponsors>
+                    <Numbering>e</Numbering>
+                  </Amendment>
+                </Amendments>
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Time />
+                <Duration>Up to two hours from the start of proceedings on the Business of the House (Today) motion or until 5.00pm, whichever is the later (if that motion is agreed to)</Duration>
+                <DateSubmitted>2024-07-23T16:19:02.157</DateSubmitted>
+                <ItemText><![CDATA[<p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;">That&mdash;</span>
+<p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;">(1) There shall be a Select Committee, to be called the Modernisation Committee, to consider reforms to House of Commons procedures, standards, and working practices; and to make recommendations thereon;</span>
+<p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;">&nbsp;</span>
+<p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;">(2) The Committee shall consist of not more than 14 Members, of which 4 will be the quorum of the Committee;</span>
+<p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;">&nbsp;</span>
+<p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">(2) Members shall be nominated to the Committee by a motion in the name of the Leader of the House;
+<span><span><span style="color: #000000; font-family: arial, sans-serif;">&nbsp;</span></span></span>
+<p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;">(4) Unless the House otherwise orders, each Member nominated to the Committee shall continue to be a member of it for the remainder of the Parliament;</span>
+<span><span><span style="color: #000000; font-family: arial, sans-serif;">&nbsp;</span></span></span>
+<p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent;">(5) The Committee shall have power to send for persons, papers and records; to sit notwithstanding any adjournment of the House; to adjourn from place to place; to report from time to time; and to appoint specialist advisers either to supply information which is not readily available or to elucidate matters of complexity within the Committee&rsquo;s order of reference;</span>
+<span><span><span style="color: #000000; font-family: arial, sans-serif;">&nbsp;</span></span></span>
+<p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent;">(6) That this Order be a Standing Order of the House until the end of the present Parliament.</span>]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>17457</DayItemId>
+              <TabledOrder>21</TabledOrder>
+              <Title>Adjournment Debate</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56591</DayItemId>
+              <TabledOrder>22</TabledOrder>
+              <Title>Convention on Biological Diversity</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>146</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Barry Gardiner</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders>
+                  <StandingOrder>
+                    <Text>Standing Order No. 9(7)</Text>
+                    <SortOrder>0</SortOrder>
+                  </StandingOrder>
+                </StandingOrders>
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Adjournment Debate</BusinessItemType>
+                <Time />
+                <Duration>Until 5.30pm or for half an hour (whichever is later)</Duration>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+          </DayItems>
+          <SectionId>1</SectionId>
+          <Name>Chamber</Name>
+        </Section>
+        <Section>
+          <DayItems>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>17511</DayItemId>
+              <TabledOrder>1</TabledOrder>
+              <Title>Statements to be Made Today</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56667</DayItemId>
+              <TabledOrder>2</TabledOrder>
+              <Title>Great British Energy update</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Written Statement</BusinessItemType>
+                <Time />
+                <DateSubmitted>2024-07-24T18:04:24.737</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Energy Security and Net Zero</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56675</DayItemId>
+              <TabledOrder>3</TabledOrder>
+              <Title>Technical Qualifications Reform update</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Written Statement</BusinessItemType>
+                <Time />
+                <DateSubmitted>2024-07-24T18:20:35.467</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Education</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56674</DayItemId>
+              <TabledOrder>4</TabledOrder>
+              <Title>Temporary closure of HMP Dartmoor</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Written Statement</BusinessItemType>
+                <Time />
+                <DateSubmitted>2024-07-24T18:12:21.23</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Justice</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+          </DayItems>
+          <SectionId>4</SectionId>
+          <Name>Written Statements</Name>
+        </Section>
+        <Section>
+          <DayItems>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>17506</DayItemId>
+              <TabledOrder>1</TabledOrder>
+              <Title>Forthcoming End of Day Adjournment Debates</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56657</DayItemId>
+              <TabledOrder>2</TabledOrder>
+              <Title>No title</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[<span style="color: #4d4d4d; font-family: National, Arial, Helvetica, sans-serif; font-size: 18px;">Applications for 30-minute end of day adjournment debates should be made to the Table Office by 7.00pm or rise of the House, whichever is the earlier, on the Wednesdays listed below. Members can submit their application via MemberHub, from their own email account or in hard copy. Application forms are available on the Table Office page on ParliNet. The ballot takes place on the day following the deadline. Members who are successful will be contacted by the Speaker&rsquo;s Office.</span>]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56658</DayItemId>
+              <TabledOrder>3</TabledOrder>
+              <Title>Monday 2 to Monday 9 September (ballot closed)</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[<span style="color: #333333; font-family: 'helvetica neue', Helvetica, Arial, sans-serif; font-size: 14px;">The ballot for Monday 2 to Monday 9&nbsp;September is closed and will take place today.&nbsp;</span>]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56659</DayItemId>
+              <TabledOrder>4</TabledOrder>
+              <Title>Tuesday 10 to Thursday 12 September (deadline Wednesday 4 September 7.00pm or the rise of the House, whichever is earlier)</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56660</DayItemId>
+              <TabledOrder>5</TabledOrder>
+              <Title>Monday 7 to Monday 14 October (deadline Wednesday 11 September 7.00pm or the rise of the House, whichever is earlier)</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>17507</DayItemId>
+              <TabledOrder>6</TabledOrder>
+              <Title>Debates in Westminster Hall</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56661</DayItemId>
+              <TabledOrder>7</TabledOrder>
+              <Title>No title</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[<span style="color: #333333; font-family: 'helvetica neue', Helvetica, Arial, sans-serif; font-size: 14px;">Following the decision of the House of 23 July 2024, there will be no Westminster Hall debates until Tuesday 3 September. The new rota for answering Departments will be published in the Order Paper as soon as it is available, and Members will be able to submit applications when that rota is published.</span>]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>17508</DayItemId>
+              <TabledOrder>8</TabledOrder>
+              <Title>Private Members' Bill Ballot</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56662</DayItemId>
+              <TabledOrder>9</TabledOrder>
+              <Title>No title</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Notes>&lt;p&gt;&lt;span style="font-size: 11pt; line-height: 107%; font-family: Arial, sans-serif; color: #4d4d4d; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"&gt;Arrangements made under the Order of the House of 22 July&amp;nbsp;and on the authority of Mr Speaker.&lt;/span&gt;&lt;/p&gt;</Notes>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[<table><tbody><tr><td><p class="MsoNormal" style="line-height: normal; margin: 6.75pt 0cm 0cm 18.9pt;"><span style="font-size: 13.5pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #4d4d4d; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;">Event</span>
+</td><td><p class="MsoNormal" style="line-height: normal; margin: 6.75pt 0cm 0cm 18.9pt;"><span style="font-size: 13.5pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #4d4d4d; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;">Date and location</span>
+</td></tr><tr><td><p class="MsoNormal" style="line-height: normal; margin: 0cm 0cm 0cm 18.9pt;"><span style="font-size: 13.5pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #4d4d4d; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;">Ballot book entry</span>
+</td><td><p class="MsoNormal" style="line-height: normal; margin: 0cm 0cm 13.5pt 18.9pt;"><span style="font-size: 13.5pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #4d4d4d; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;">Tuesday 3 and Wednesday 4 September:</span>
+<p class="MsoNormal" style="line-height: normal; margin: 0cm 0cm 13.5pt 18.9pt;"><span style="font-size: 13.5pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #4d4d4d; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;">- from 11.30am until 6pm, in the No Division lobby,</span>
+<p class="MsoNormal" style="line-height: normal; margin: 0cm 0cm 0cm 18.9pt;"><span style="font-size: 13.5pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #4d4d4d; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;">- from 6pm until the rise of the House, in the Public Bill Office.</span>
+</td></tr><tr><td><p class="MsoNormal" style="line-height: normal; margin: 0cm 0cm 0cm 18.9pt;"><span style="font-size: 13.5pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #4d4d4d; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;">Ballot draw</span>
+</td><td><p class="MsoNormal" style="line-height: normal; margin: 0cm 0cm 0cm 18.9pt;"><span style="font-size: 13.5pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #4d4d4d; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;">Thursday 5 September, time and location to be confirmed (also broadcast live)</span>
+</td></tr><tr><td><p class="MsoNormal" style="line-height: normal; margin: 0cm 0cm 0cm 18.9pt;"><span style="font-size: 13.5pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #4d4d4d; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;">Presentation of ballot bills</span>
+</td><td><p class="MsoNormal" style="line-height: normal; margin: 0cm 0cm 0cm 18.9pt;"><span style="font-size: 13.5pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #4d4d4d; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;">Wednesday 16 October, immediately after questions and statements (if any)</span>
+</td></tr></tbody></table><p class="MsoNormal" style="margin-bottom: 13.5pt; line-height: normal; background: white;"><span style="font-size: 13.5pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #4d4d4d; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;">Members may enter only one name into the ballot, either their own or that of another Member who has authorised them to do so, and no name may appear more than once. Neither a Bill nor Bill titles are required at this stage.</span>
+<p class="MsoNormal" style="margin-bottom: 13.5pt; line-height: normal; background: white;"><span style="font-size: 13.5pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #4d4d4d; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: EN-GB;">On the day of the ballot, the Chairman of Ways and Means will draw 20 names in reverse order. The list of successful Members will be available in the Vote Office and on the internet shortly after the draw. Members successful in the ballot will be contacted by the Clerk of Private Members&rsquo; Bills.</span>]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>17509</DayItemId>
+              <TabledOrder>10</TabledOrder>
+              <Title>Register of Members’ Financial Interests </Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56663</DayItemId>
+              <TabledOrder>11</TabledOrder>
+              <Title>No title</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[All Members must register their interests by 4 August 2024 (through the Registration Portal (<span style="color: #0563c1;">https://interests-hub.parliament.uk</span>)), in accordance with the Code of Conduct and the Guide to the Rules (<span style="color: #0563c1;">HC 1083</span>).]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>17510</DayItemId>
+              <TabledOrder>12</TabledOrder>
+              <Title>Summer Adjournment - Tabling of Parliamentary Questions</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56664</DayItemId>
+              <TabledOrder>13</TabledOrder>
+              <Title>No title needed</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[The following arrangements will apply for the tabling of Questions for oral and written answer during the Summer Adjournment.]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56665</DayItemId>
+              <TabledOrder>14</TabledOrder>
+              <Title>Questions for oral answer</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Notes>&lt;p&gt;* The latest time for tabling is 12.30pm on each of these days.&lt;/p&gt;
+&lt;p&gt;** (T) denotes that there are Topical questions for this Department.&lt;/p&gt;</Notes>
+                <Time />
+                <AdditionalInformation>&lt;p&gt;Please format middle section as a table as usual. Please also check that the "r" in answer is visible in the middle column. Please also make sure that the formatting is correct for the two hyperlinks.&lt;/p&gt;</AdditionalInformation>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[Under Standing Order No. 22(6), the Speaker has made the following arrangements for tabling Questions for oral answer when the House returns:
+<table><tbody><tr><td>Last date of tabling*</td><td>Date for answer</td><td>Departments etc.</td></tr><tr><td>Tuesday 27 August</td><td>Monday 2 September</td><td>Housing, Communities and Local Government&nbsp;(T)**</td></tr><tr><td>Tuesday 27 August</td><td>Tuesday 3 September</td><td>Treasury (T)</td></tr><tr><td>Tuesday 27 August</td><td>Wednesday 4 September</td><td>Scotland</td></tr><tr><td>Tuesday 27 August</td><td>Wednesday 4&nbsp;September</td><td>Prime Minister</td></tr><tr><td>Tuesday 27 August</td><td>Thursday 5 September</td><td>Business and Trade (T)</td></tr><tr><td>Tuesday 3 September</td><td>Monday 9 September</td><td>Education (T)</td></tr><tr><td>Tuesday 3 September</td><td>Wednesday 11 September</td><td>Wales</td></tr><tr><td>Wednesday 4 September</td><td>Tuesday 10 September</td><td>Justice (T)</td></tr><tr><td>Thursday 5 September</td><td>Wednesday 11 September</td><td>Prime Minister</td></tr><tr><td>Thursday 5 September</td><td>Thursday 12 September</td><td>Environment, Food and Rural Affairs (T)</td></tr><tr><td>Thursday 5 September</td><td>Thursday 12 September</td><td>Attorney General</td></tr></tbody></table>
+The results of the shuffles on 27 August will be published on 28 August.
+
+For further details of last tabling days for other departments and answering bodies, see the Order of Questions rota available on the Commons Business Paper website at https://commonsbusiness.parliament.uk]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56666</DayItemId>
+              <TabledOrder>15</TabledOrder>
+              <Title>Questions for written answer on a named day</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[<table><tbody><tr><td>Time of tabling</td><td>Earliest date for named day answer</td></tr><tr><td>Thursday 25 July</td><td>Tuesday 30 July</td></tr><tr><td>Friday 26 July until rise of the House on Tuesday 30 July</td><td>Monday 2 September</td></tr><tr><td>From rise of the House on Tuesday 30&nbsp;July until 2.30pm on Friday 30&nbsp;August</td><td>Wednesday 4 September (each Member may table up to five named day questions during this period)</td></tr><tr><td>Monday 2 September</td><td>Thursday 5 September</td></tr></tbody></table>]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+          </DayItems>
+          <SectionId>7</SectionId>
+          <Name>Announcements</Name>
+        </Section>
+      </Sections>
+    </Day>
+  </Days>
+</OrderPaper>
