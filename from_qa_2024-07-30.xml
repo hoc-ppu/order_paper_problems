@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OrderPaper xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><link type="text/css" id="dark-mode" rel="stylesheet" href=""/><style type="text/css" id="dark-mode-custom-style"/>
+  <House>Commons</House>
+  <Type>Effectives</Type>
+  <Days>
+    <Day>
+      <Date>2024-07-30T00:00:00</Date>
+      <Sections>
+        <Section>
+          <DayItems>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>34459</DayItemId>
+              <TabledOrder>1</TabledOrder>
+              <Title>Urgent Questions and Statements</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>17927</DayItemId>
+              <TabledOrder>2</TabledOrder>
+              <Title>Ministerial Statements (if any) </Title>
+              <BusinessItemDetail>
+                <ChildDayItems/>
+                <Sponsors/>
+                <StandingOrders/>
+                <Amendments/>
+                <Links/>
+                <RenderedFields/>
+                <BusinessItemType>Motion</BusinessItemType>
+                <Time/>
+                <DateSubmitted xsi:nil="true"/>
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>34464</DayItemId>
+              <TabledOrder>3</TabledOrder>
+              <Title>Tributes</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>34460</DayItemId>
+              <TabledOrder>5</TabledOrder>
+              <Title>Business of the Day</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>17928</DayItemId>
+              <TabledOrder>6</TabledOrder>
+              <Title>Road Traffic Offenders (Surrender of Driving Licences etc.): Ten Minute Rule motion </Title>
+              <BusinessItemDetail>
+                <ChildDayItems/>
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>5131</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Jack Abbott</Name>
+                    <LayingMinisterName/>
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders>
+                  <StandingOrder>
+                    <Text>Standing Order No. 23</Text>
+                    <SortOrder>0</SortOrder>
+                  </StandingOrder>
+                </StandingOrders>
+                <Amendments/>
+                <Links/>
+                <RenderedFields/>
+                <BusinessItemType>Motion</BusinessItemType>
+                <Notes>&lt;p&gt;The Member moving and a Member opposing this Motion may each speak for up to 10 minutes.&lt;/p&gt;</Notes>
+                <Time/>
+                <DateSubmitted xsi:nil="true"/>
+                <ItemText><![CDATA[That leave be given to bring in a Bill to make provision about the surrender, production or other delivery up of driving licences, or test certificates, in relation to certain offences; to make provision in relation to identifying persons in connection with fixed penalty notices, conditional offers and the payment of fixed penalties under the Road Traffic Offenders Act 1988; and for connected purposes.]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+          </DayItems>
+          <SectionId>1</SectionId>
+          <Name>Chamber</Name>
+        </Section>
+      </Sections>
+    </Day>
+  </Days>
+</OrderPaper>
